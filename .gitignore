@@ -1,51 +1,9 @@
 .vscode/
 .venv/
 .ipynb_checkpoints/
-/Scikitlearn/weatherAUS.csv
-/Scikitlearn/Feature Engineering/Test-Set.csv
-/Scikitlearn/Feature Engineering/Train-Set.csv
-/Scikitlearn/Gradient Boosting/rossmann-store-sales/rossmann-store-sales.zip
-/Scikitlearn/Gradient Boosting/rossmann-store-sales/store.csv
-/Scikitlearn/Gradient Boosting/rossmann-store-sales/test.csv
-/Scikitlearn/Gradient Boosting/rossmann-store-sales/train.csv
-/Scikitlearn/Gradient Boosting/rossmann-store-sales/sample_submission.csv
-/Scikitlearn/Kaggle Comeptition1/categorical_cols.parquet
-/Scikitlearn/Kaggle Comeptition1/X_train.parquet
-/Scikitlearn/Kaggle Comeptition1/val_target.parquet
-/Scikitlearn/Kaggle Comeptition1/X_val.parquet
-/Scikitlearn/Kaggle Comeptition1/X_test.parquet
-/Scikitlearn/Kaggle Comeptition1/validation_data.parquet
-/Scikitlearn/Kaggle Comeptition1/training_data.parquet
-/Scikitlearn/Kaggle Comeptition1/train_target.parquet
-/Scikitlearn/Kaggle Comeptition1/train_inputs.parquet
-/Scikitlearn/Kaggle Comeptition1/train (3).csv
-/Scikitlearn/Kaggle Comeptition1/test.csv
-/Scikitlearn/Kaggle Comeptition1/test_target.parquet
-/Scikitlearn/Kaggle Comeptition1/test_data.parquet
-/Scikitlearn/Kaggle Comeptition1/numerical_cols.parquet
-/Scikitlearn/Kaggle Comeptition1/gender_submission.csv
-/Scikitlearn/Kaggle Comeptition1/encoded_cols.parquet
-/Scikitlearn/Kaggle Comeptition1/dl-course-data
-/Scikitlearn/Linear Regression/medical_data.csv
-/Scikitlearn/Logistic Regression/test_inputs.parquet
-/Scikitlearn/Logistic Regression/test_targets.parquet
-/Scikitlearn/Logistic Regression/train_targets.parquet
-/Scikitlearn/Logistic Regression/val_inputs.to_parquet
-/Scikitlearn/Logistic Regression/val_targets.to_parquet
-/Scikitlearn/Logistic Regression/weatherAUS.csv
-/Scikitlearn/Untitled Folder/store.csv
-/Scikitlearn/Untitled Folder/test.csv
-/Scikitlearn/Untitled Folder/train.csv
-/Scikitlearn/Untitled Folder 2/test_inputs.parquet
-/Scikitlearn/Untitled Folder 2/train_inputs.parquet
-/Scikitlearn/Untitled Folder 2/val_inputs.parquet
 /Scikitlearn/arr.py
-/Pandas/Book DIS.csv
-/Pandas/IDNHER.xlsx
-/Pandas/Inflation sample.xlsx
-/Pandas/merged.csv
-/Pandas/SELECTED FOOD AUGUST 2022.xlsx
-/Pandas/SELECTED FOOD MARCH 2023.xlsx
-/Matplotlib/GAS_PRICE_WATCH_JANUARY_2023(1).xlsx
-/Matplotlib/raw.githubusercontent.com_KeithGalli_matplotlib_tutorial_master_fifa_data.csv
 /Data Structures and Algorithm/Machine learning models scratch
+*.csv
+*.xlsx
+*.parquet
+*.to_parquet
