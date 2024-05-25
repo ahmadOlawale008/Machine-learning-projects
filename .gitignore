@@ -7,3 +7,4 @@
 *.xlsx
 *.parquet
 *.to_parquet
+.env
