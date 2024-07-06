@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rossmann-store-sales">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Scikitlearn/Gradient Boosting/rossmann-store-sales/rossmann-store-sales.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

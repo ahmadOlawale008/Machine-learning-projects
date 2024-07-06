@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dl-course-data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Scikitlearn/Kaggle Comeptition1/dl-course-data/dl-course-data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
